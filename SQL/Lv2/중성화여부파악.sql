@@ -1,0 +1,9 @@
+SELECT A.ANIMAL_ID, A.NAME, 
+    CASE A.SEX_UPON_INTAKE
+    WHEN "Intact Female" THEN "X"
+    WHEN "Intact Male" THEN "X"
+    ELSE "O"
+    END
+    AS 중성화
+FROM ANIMAL_INS AS A
+ORDER BY A.ANIMAL_ID;
