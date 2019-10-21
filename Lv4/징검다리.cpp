@@ -50,6 +50,6 @@ int solution(int distance, vector<int> rocks, int n)
 	}
 
 	answer = max;
-
+ 
 	return answer;
 }
