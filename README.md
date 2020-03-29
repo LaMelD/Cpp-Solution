@@ -1,7 +1,16 @@
 # C++ Soution Repository
 
-### 백준
+### 1. 백준
 
-### Programmers
+- 작업 완료
+- readme 수정 요청
 
-### SW Expert Academy
+### 2. Programmers
+
+- 작업 필요
+- readme 수정 요청
+
+### 3. SW Expert Academy
+
+- 작업 완료
+- readme 수정 요청
