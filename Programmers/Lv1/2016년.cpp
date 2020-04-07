@@ -1,10 +1,9 @@
+//2016년
 #include <string>
 #include <vector>
 #include <iostream>
 
 using namespace std;
-
-//2016년 a월 b일은 무슨요일인가
 
 string solution(int a, int b) {
     vector<string> answer = {"FRI", "SAT", "SUN", "MON", "TUE", "WED", "THU"};
